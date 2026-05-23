@@ -2,7 +2,7 @@
 Работа с базой данных Веб-приложения (Интернет-магазин) https://intern.demoshopping.ru/
 ###
 ---
-✏️ В рамках выполнения домашнего задания мною были выполнены:
+✏️ В рамках домашнего задания мною были выполнены:
 
 <ul>
   <li><a href="https://github.com/TestAmelchenko/sql/blob/main/SELECT%20%D0%B2%20MySQL.xlsx">SELECT запросы</a> </li>
